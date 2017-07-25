@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+header {
+  background-color: white;
+}
+
+footer {
+  background-color: white;
+}
+
+footer h4 {
+  color: #737373;
+}
+
+
+/* CSS for the Class Selectors*/
+.Shoes {
+  background-color: #ff3c1a;
+  color: #ffffff;
+}
+
+
+
+.Shoe_Text {
+  color: #ffffff;
+  margin-top: 25px;
+}
+
+.Shoe_Text h2 {
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.Shoe_Text h3 {
+  font-weight: normal;
+}
+
+.Rec_Shoe_Text h2 h3 {
+  color: #ffffff;
+}
+
+.Rec_Shoe_Text h3 {
+  color: #ffffff;
+  font-weight: 200;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+.Details {
+  background-color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+.Details_Text {
+  /*margin-bottom: 50px;*/
+}
+
+.Details_Text h3 {
+  /*margin-top: 50px:*/
+  color: #000000;
+}
+
+.Details_Text h4 {
+  margin-top: 50px;
+  color: #737373;
+  margin-bottom: 50px;
+}
+
+.Main_Description_Text
+
+/* CSS for the ID selectors */
+#Main_Description {
+  font-weight: 200;
+}
+
+#Main_Description img{
+  margin-left: 150px;
+}
+
+#Details_Section {
+
+}
+
+#Recommended_Shoes_Section {
+}
