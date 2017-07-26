@@ -23,7 +23,7 @@ footer h4 {
 }
 
 
-
+/* For the shoe text in Main Description */
 .Shoe_Text {
   color: #ffffff;
   margin-top: 25px;
@@ -38,6 +38,7 @@ footer h4 {
   font-weight: normal;
 }
 
+/* For the shoe text in the Recommended Shoes Section */
 .Rec_Shoe_Text h2 h3 {
   color: #ffffff;
 }
@@ -49,6 +50,7 @@ footer h4 {
   text-decoration-color: blue;
 }
 
+/* CSS for the Details section */
 .Details {
   background-color: #ffffff;
   padding-top: 50px;
